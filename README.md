@@ -134,17 +134,3 @@ These techniques were used for customer ranking, segment-wise analysis, and mont
 
 This project demonstrates how SQL can transform raw e-commerce transaction data into meaningful business insights. The analysis helps businesses understand customer value, product performance, revenue trends, and segment-level performance to support better data-driven decisions.
 
-## PROJECT STRUCTURE
-
-```text
-E-Commerce-SQL-Analysis/
-│
-├── README.md
-├── dataset/
-├── sql/
-└── screenshots/
-```
-
-## SKILLS DEMONSTRATED
-
-`SQL` `MySQL` `Data Analysis` `Joins` `CTEs` `Subqueries` `Window Functions` `Customer Analysis` `Revenue Analysis` `Business Analytics`
