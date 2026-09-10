@@ -19,12 +19,6 @@ The analysis focuses on identifying:
 7. Month-over-month revenue changes
 8. High-value customers
 
-## TOOLS AND TECHNOLOGIES
-
-* SQL
-* MySQL Workbench
-* Excel (Data Preparation)
-
 ## DATASET INFORMATION
 
 The dataset contains e-commerce transaction information including:
@@ -105,20 +99,6 @@ Uses `RANK()` and `ROW_NUMBER()` to identify the top customers within each segme
 
 **Business Action:**
 Prioritize high-value customers for personalized marketing and loyalty programs.
-
-## ADVANCED SQL ANALYSIS
-
-The project includes advanced SQL techniques such as:
-
-* CTEs
-* Subqueries
-* `RANK()`
-* `ROW_NUMBER()`
-* `DENSE_RANK()`
-* `PARTITION BY`
-* `LAG()`
-* `LEAD()`
-* `CASE WHEN`
 
 These techniques were used for customer ranking, segment-wise analysis, and month-over-month revenue comparison.
 
